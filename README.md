@@ -92,13 +92,6 @@ Enter the corresponding number to visualize the desired sorting algorithm.
 
 ---
 
-## 📸 Screenshot
-
-![Visualizer Screenshot Placeholder](https://via.placeholder.com/600x400?text=Visualizer+Demo)
-
-
----
-
 ## 🙋‍♂️ Author
 
 Developed by **Mamidipelli Krishna Hasini**
